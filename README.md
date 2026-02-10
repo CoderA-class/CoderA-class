@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderA-class
 - 👀  Coding till failure
--  I’m currently learning Java , JAVAscript, CSS , HTML , Python
+-  I’m currently busy with my Diploma in Application Developement
 - ⚡ Fun fact: ... if(you != like me)  Print ("your loss")
 
 <!---
