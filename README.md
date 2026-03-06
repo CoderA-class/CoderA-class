@@ -1,4 +1,4 @@
-
+<img src = "Grey Minimalist Corporate Personal Profile LinkedIn Banner.jpg">
 <h1 align = "center">ADRIAAN VAN DER WESTHUIZEN</h1>
 
 
