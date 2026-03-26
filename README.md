@@ -37,6 +37,7 @@
   Case = "Coolermaster cube mesh" <br>
   <hr/>
   <p>
+     <img  align = "left" src = "https://www.svgrepo.com/show/383083/pc-monitor-screen.svg" width="45" height="45" />
     <h6>laptop</h6>
     Model name = "ACER " <br>
     CPU = "Intel I5 13th Gen"<br>
