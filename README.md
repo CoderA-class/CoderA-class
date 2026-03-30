@@ -10,7 +10,7 @@ In my spare time, I enjoy sharpening my front-end capabilities by experimenting 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adriaan vdw" target="blank">
+<a href="https://linkedin.com/in/adriaan vdw"> LINKEDIN</a>
 
 <h3>TECH STACK</h3>
 <p align="left">
