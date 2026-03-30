@@ -6,10 +6,11 @@
 
 <h2> I am an Application Development student driven by a passion for critical thinking and solving real-world challenges through technology. I approach every project with discipline and a commitment to high-quality output.
 
-
-
 In my spare time, I enjoy sharpening my front-end capabilities by experimenting with CSS and building unique web experiences. I am a firm believer in persistence and the "try until you succeed" philosophy when tackling complex code.</h2>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/adriaan vdw" target="blank">
 
 <h3>TECH STACK</h3>
 <p align="left">
