@@ -4,7 +4,7 @@
 
 <h1>GO AHEAD AND SEE MORE ON MY CV</h1>
 <p>
-  GET MY CV :
+  EXPLORE MORE OF ME :
   <a href = "https://codera-class.github.io/" >ADRIAAN van der Westhuizen</a>
 </p>
 
