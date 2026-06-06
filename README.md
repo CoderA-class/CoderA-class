@@ -8,9 +8,13 @@
   <a href = "https://codera-class.github.io/" >ADRIAAN van der Westhuizen</a>
 </p>
 
-<h2> I am an Application Development student driven by a passion for critical thinking and solving real-world challenges through technology. I approach every project with discipline and a commitment to high-quality output.
-
-In my spare time, I enjoy sharpening my front-end capabilities by experimenting with CSS and building unique web experiences. I am a firm believer in persistence and the "try until you succeed" philosophy when tackling complex code.</h2>
+<h2> I am a 3rd year Application Development Student who has a
+love for designing and creating solutions to corporate
+problems. I like to explore and learn more technologies. I am in
+need for Work Integrated Learning to finish my studies.
+Currently I like creating cool projects using React and I am
+studying the ways of machine learning. More precise, data
+analysis and predictions.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
